@@ -1,0 +1,11 @@
+wxCairoSVG library
+
+A wxWidgets library to generate bitmaps from SVG images using the cairo library
+
+This project contains the code that makes use of the cross platform cairo library to interpret SVG images and produce raster wxImage equivalents.
+
+It is still very much in its infancy.
+
+The code is hosted at https://github.com/johanvdb/wxCairoSVG
+
+Johan van den Berg
